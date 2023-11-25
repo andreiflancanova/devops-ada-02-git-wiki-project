@@ -2,13 +2,10 @@
 name: Melhoria
 about: Proponha uma melhoria de uma feature já existente
 title: Melhoria
-labels: enhancement
+labels: melhoria
 assignees: andreiflancanova
 
 ---
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Qual feature você deseja melhorar?**
 Mencione a funcionalidade que você quer que seja melhorada
