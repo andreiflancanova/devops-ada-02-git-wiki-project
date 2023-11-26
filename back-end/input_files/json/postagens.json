@@ -1,0 +1,17 @@
+[
+    {
+        "descricao": "Configure o nome que estará vinculado a você em seus commits.",
+        "comando": "git config --global user.name \"Seu nome\"",
+        "categoria":"Configuração Inicial"
+    },
+    {
+        "descricao": "Configure o e-mail que estará vinculado a você em seus commits.",
+        "comando": "git config --global user.email \"seu-email@email.com\"",
+        "categoria":"Configuração Inicial"
+    },
+    {
+        "descricao": "Inicialize um diretório da sua máquina local como um repositório Git.",
+        "comando": "git init",
+        "categoria":"Configuração Inicial"
+    }
+]
